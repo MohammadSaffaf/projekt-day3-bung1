@@ -14,7 +14,7 @@ class Übung1 extends Component {
     }
     render() { 
         return ( 
-            <main style={{backgroundColor:"lightgray",height:"100vh",paddingTop:"10%",fontSize:"30px",color:"#fff"}}>
+            <main style={{backgroundColor:"lightgray",height:"80vh",paddingTop:"10%",fontSize:"30px",color:"#fff"}}>
             <div style={{backgroundColor:"gray",textAlign:"center",width:"70%",marginLeft:"15%",paddingTop:"2.5%",paddingBottom:"2.5%",border:"4px solid #fff"}}>
                 <div >
                 <label style={{marginRight:"60%"}} > Why is React great?</label>
